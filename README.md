@@ -23,10 +23,10 @@ A real-time chat application built using **Flutter** and **Firebase**, enabling 
 > If uploading to GitHub instead of YouTube, use this instead:
 >
 > ```markdown
-> ## 📸 Demo
->
-> [🎬 Watch Demo Video](https://github.com/Shirishacoder/flutter_global_chat/assets/YOUR_VIDEO_FILENAME.mp4)
-> ```
+
+## 🎥 Demo
+
+[🎬 Watch Demo Video](https://github.com/Shirishacoder/flutter_global_chat/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).mp4)
 
 ---
 
